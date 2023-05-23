@@ -10,6 +10,7 @@
         "laravel/framework": "^9.11",
         "laravel/sanctum": "^2.14.1",
         "laravel/tinker": "^2.7"
+        
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
@@ -18,6 +19,7 @@
         "nunomaduro/collision": "^6.1",
         "phpunit/phpunit": "^9.5.10",
         "spatie/laravel-ignition": "^1.0"
+       
     },
     "autoload": {
         "psr-4": {
